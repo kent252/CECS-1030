@@ -1,8 +1,8 @@
 # CECS-1030
 This repository is for the CECS 1030 - Computational and Algorithmic Thinking at VinUniveristy (SPRING 2025)
 ## Team members
-  - Instructor: [Prof. Kok-Seng Wong] (https://scholar.google.com/citations?hl=en&user=WQyULhIAAAAJ&view_op=list_works&sortby=pubdate)
-  - TA: [Mr. Duc Anh Vu] (https://scholar.google.com/citations?hl=en&user=xsCEZGMAAAAJ&view_op=list_works&sortby=pubdate)
+  - Instructor: [Prof. Kok-Seng Wong](https://scholar.google.com/citations?hl=en&user=WQyULhIAAAAJ&view_op=list_works&sortby=pubdate)
+  - TA: [Mr. Duc Anh Vu](https://scholar.google.com/citations?hl=en&user=xsCEZGMAAAAJ&view_op=list_works&sortby=pubdate)
 ## Content
 | Week          | Topic         | Lab           |
 | ------------- | ------------- | ------------- |
