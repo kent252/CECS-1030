@@ -15,7 +15,7 @@ This repository is for the CECS 1030 - Computational and Algorithmic Thinking at
 | 07            | Data Processing  |       |
 | 08            | Machine Learning Application  |       |
 | 09            | Image Classification  |       |
-| 010           | LLM Application  |       |
+| 10            | LLM Application  |       |
 
 ## Lab Assignments
   - To set up your environment, please follow the instructions [Setup]()
