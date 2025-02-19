@@ -1,10 +1,10 @@
-##  Codeforces Tutorial for COMP1010 Lab Assignments 
+##  Codeforces Tutorial for COMP1030 Lab Assignments 
 
-This tutorial will guide you through submitting and evaluating your lab assignments for COMP1010 using Codeforces.
+This tutorial will guide you through submitting and evaluating your lab assignments for COMP1030 using Codeforces.
 
 **1. Registering for a Codeforces Account:**
 
-* **Access the Registration Link:** Go to [https://comp1030.contest.codeforces.com/groupRegister](https://comp1030.contest.codeforces.com/groupRegister)
+* **Access the Registration Link:** Go to [Link](Link)
 * **Use your VinUniversity Email:** This is crucial!  You **must** register using your official VinUniversity email address.  Here's how to format your information:
 
    - **Example:** Let's say your name is Nguyen Minh Tuan and your student email is `18anh.vd@vinuni.edu.vn`. The Full Name must contain both your username and full name such as `18anh.vd (Vu Duc Anh)`. Please make sure to follow this format. It is important to follow this format because we need to verify your identity. If you do not follow this format, we can not verify your identity, and you will not receive any points. In detail, you need to register like this:
@@ -19,7 +19,7 @@ This tutorial will guide you through submitting and evaluating your lab assignme
 
 **2. Accessing the Lab Assignment Page:**
 
-* **Go to the Codeforces Group:** Open [https://comp1030.contest.codeforces.com/group/bpn9UX6X0t/contests](https://comp1030.contest.codeforces.com/group/bpn9UX6X0t/contests).
+* **Go to the Codeforces Group:** Open [Link](Link).
 * **Find the Correct Assignment:** Look for the assignment corresponding to the lab you're working on. It will be clearly labeled. 
 * **Check the Time Limit:** Make sure to note when the assignment opens and closes.  Submissions are only allowed during the specified time window.
 
