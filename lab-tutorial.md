@@ -7,7 +7,7 @@ This tutorial will guide you through submitting and evaluating your lab assignme
 * **Access the Registration Link:** Go to [https://comp1030.contest.codeforces.com/groupRegister](https://comp1030.contest.codeforces.com/groupRegister)
 * **Use your VinUniversity Email:** This is crucial!  You **must** register using your official VinUniversity email address.  Here's how to format your information:
 
-   - **Example:** Let's say your name is Nguyen Minh Tuan and your student email is `18tuan.nm@vinuni.edu.vn`. The Full Name must contain both your username and full name such as `18tuan.nm (Nguyen Minh Tuan)`. Please make sure to follow this format. It is important to follow this format because we need to verify your identity. If you do not follow this format, we can not verify your identity, and you will not receive any points. In detail, you need to register like this:
+   - **Example:** Let's say your name is Nguyen Minh Tuan and your student email is `18anh.vd@vinuni.edu.vn`. The Full Name must contain both your username and full name such as `18anh.vd (Vu Duc Anh)`. Please make sure to follow this format. It is important to follow this format because we need to verify your identity. If you do not follow this format, we can not verify your identity, and you will not receive any points. In detail, you need to register like this:
       - **Login (username):** `18anh.vd`
       - **Email:** `18anh.vd@vinuni.edu.vn`
       - **Full Name:** `18anh.vd (Vu Duc Anh)`
