@@ -4,7 +4,7 @@ This tutorial will guide you through submitting and evaluating your lab assignme
 
 **1. Registering for a Codeforces Account:**
 
-* **Access the Registration Link:** Go to [https://vinuniversity.contest.codeforces.com/groupRegister](https://vinuniversity.contest.codeforces.com/groupRegister)
+* **Access the Registration Link:** Go to [https://comp1030.contest.codeforces.com/groupRegister](https://comp1030.contest.codeforces.com/groupRegister)
 * **Use your VinUniversity Email:** This is crucial!  You **must** register using your official VinUniversity email address.  Here's how to format your information:
 
    - **Example:** Let's say your name is Nguyen Minh Tuan and your student email is `18tuan.nm@vinuni.edu.vn`. The Full Name must contain both your username and full name such as `18tuan.nm (Nguyen Minh Tuan)`. Please make sure to follow this format. It is important to follow this format because we need to verify your identity. If you do not follow this format, we can not verify your identity, and you will not receive any points. In detail, you need to register like this:
@@ -19,7 +19,7 @@ This tutorial will guide you through submitting and evaluating your lab assignme
 
 **2. Accessing the Lab Assignment Page:**
 
-* **Go to the Codeforces Group:** Open [https://vinuniversity.contest.codeforces.com/group/L4F1LhfGjI/contests](https://vinuniversity.contest.codeforces.com/group/L4F1LhfGjI/contests).
+* **Go to the Codeforces Group:** Open [https://comp1030.contest.codeforces.com/group/bpn9UX6X0t/contests](https://comp1030.contest.codeforces.com/group/bpn9UX6X0t/contests).
 * **Find the Correct Assignment:** Look for the assignment corresponding to the lab you're working on. It will be clearly labeled. 
 * **Check the Time Limit:** Make sure to note when the assignment opens and closes.  Submissions are only allowed during the specified time window.
 
