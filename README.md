@@ -6,7 +6,7 @@ This repository is for the CECS 1030 - Computational and Algorithmic Thinking at
 ## Content
 | Week          | Topic         | Lab           |
 | ------------- | ------------- | ------------- |
-| 01            | Introduction to Python  |[Lab 1](CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 01            | Introduction to Python  |[Lab 1]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb))      |
 | 02            | Basic Operations, Variables, Data types, I/O|  |
 | 03            | Variable Assignment and Logical Operators   |       |
 | 04            | Function and Module  |       |
