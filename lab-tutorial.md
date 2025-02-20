@@ -1,8 +1,14 @@
 ##  Codeforces Tutorial for COMP1030 Lab Assignments 
 
-This tutorial will guide you through submitting and evaluating your lab assignments for COMP1030 using Codeforces.
+This tutorial will guide you through submitting and evaluating your lab assignments for COMP1030 using Codeforces. \
+
+** IMPORTANT NOTICE ** \
+Late submission of lab practice without an approved extension will incur the following penalties:
+* The instructor will deduct 2.5 points for each day past the deadline.
+* The penalty will be deducted until the maximum possible score for the lab practice reaches zero (0%) unless otherwise specified by the instructor.
 
 **1. Registering for a Codeforces Account:**
+
 
 * **Access the Registration Link:** Go to [Link](Link)
 * **Use your VinUniversity Email:** This is crucial!  You **must** register using your official VinUniversity email address.  Here's how to format your information:
