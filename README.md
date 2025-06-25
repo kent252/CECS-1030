@@ -7,15 +7,15 @@ This repository is for the CECS 1030 - Computational and Algorithmic Thinking at
 | Week          | Topic         | Lab           |
 | ------------- | ------------- | ------------- |
 | 01            | Introduction to Python  |[Lab 1]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb))      |
-| 02            | Basic Operations, Variables, Data types, I/O|  |
-| 03            | Variable Assignment and Logical Operators   |       |
-| 04            | Function and Module  |       |
-| 05            | Searching Algorithm  |       |
-| 06            | Sorting Algorithm  |       |
-| 07            | Data Processing  |       |
-| 08            | Machine Learning Application  |       |
-| 09            | Image Classification  |       |
-| 10            | LLM Application  |       |
+| 02            | Basic Operations, Variables, Data types, I/O| [Lab 2]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)  |
+| 03            | Variable Assignment and Logical Operators   | [Lab 3]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 04            | Function and Module  | [Lab 4]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 05            | Searching Algorithm  | [Lab 5]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 06            | Sorting Algorithm  | [Lab 6]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 07            | Data Processing  | [Lab 7]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 08            | Machine Learning Application  | [Lab 8]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 09            | Image Classification  | [Lab 9]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
+| 10            | LLM Application  | [Lab 10]([CECS-1030/blob/main/Lab-01/lab01.ipynb](https://github.com/kent252/CECS-1030/blob/main/Lab-01/lab01.ipynb)      |
 
 ## Lab Assignments
   - To set up your environment, please follow the instructions [Setup]()
